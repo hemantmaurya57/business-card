@@ -1,0 +1,22 @@
+ body {
+    margin: 20px;
+    font-family: Arial, Verdana, Geneva, Tahoma, sans-serif; /* Added Arial as preferred font */
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #f8edeb; /* Changed background color */
+    color: #6b2737; /* Changed text color */
+    border-bottom: 6px solid #ffaaa5; /* Changed border color */
+    border-radius: 10px; /* Added border radius */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Added shadow */
+}
